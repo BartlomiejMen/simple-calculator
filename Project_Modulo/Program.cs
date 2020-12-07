@@ -12,6 +12,7 @@ namespace Project_Modulo
         {
             Console.Write("Podaj liczbę do sprawdzenia: ");
             Console.WriteLine(Modulo.ModuloMethod());
+
         }
     }
 }
